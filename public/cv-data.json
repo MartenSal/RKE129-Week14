@@ -1,0 +1,25 @@
+{
+  "fName": "Peeter",
+  "lName": "Tamm",
+  "age": 28,
+  "email": "peeter.tamm@gmail.com",
+  "phone": "+372 5454 1010",
+  "location": "Tallinn",
+  "skills": [
+    "Product Design",
+    "User Interface",
+    "User Experience",
+    "Interaction Design",
+    "Wireframing",
+    "Rapid Prototyping",
+    "Design Research"
+  ],
+  "technologies": [
+    "Figma", "Sketch", "Protopie", "Framer", "Abstract", "Zeplin",
+    "Google Analytics", "Amplitude", "Fullstory"
+  ],
+  "languages": [
+    "Eesti (emakeel)",
+    "Inglise (C1)"
+  ]
+}
